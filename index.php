@@ -1,1 +1,1 @@
-<?php require_once("repo/grocery/index.php/welcome/theme")?>
+<?php require_once("index.html")?>
